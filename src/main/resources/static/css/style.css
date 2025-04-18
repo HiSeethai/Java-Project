@@ -1,0 +1,30 @@
+
+body{
+		background-image: url("https://img.freepik.com/free-vector/watercolor-sugar-cotton-clouds-background_79603-2380.jpg?ga=GA1.1.1708520941.1728998731&semt=ais_hybrid&w=740");
+		background-size: cover;
+		font-family: Arial, sans-serif;
+		 text-align: center;
+		 margin-top: 50px;
+}
+form {
+ display: inline-block;
+ text-align: left;
+ background: white;
+ padding: 20px;
+ border-radius: 10px;
+ box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ margin-top:150px;
+ text-align: center;
+}
+input, button {
+ margin: 5px;
+ padding: 10px;
+
+}
+button[type="submit"]{
+	
+	background-color: pink;
+}
+button[type="submit"]:hover{
+	background-color: blue;
+}
